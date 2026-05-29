@@ -3,3 +3,6 @@ This repository contains the Jupyter Notebooks I developed to create the graphs 
 
 I like math!
 $$Z=\int \exp(-\beta H)$$
+
+Look at this GIF:
+![My gif with HUBBLE CONSTANT](Images/animation.gif)
